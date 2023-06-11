@@ -13,7 +13,7 @@ Objectives:
 
 Assignments Plan:
 
-    1. Scripting + simple C
+& 1. Scripting + simple C
     2. Abstract Data Type – Linked Lists (C)
     3. OO basics
     4. Inheritance

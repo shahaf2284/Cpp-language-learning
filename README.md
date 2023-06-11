@@ -13,13 +13,13 @@ Objectives:
 
 Assignments Plan:
 
-1. Scripting + simple C
-2. Abstract Data Type – Linked Lists (C)
-3. OO basics
-4. Inheritance
-5. Generic programming
-6. The C Programming Language, Brian W. Kernighan, Dennis M. Ritchie
-7. The C++ Programming Language, Bjarne Stroustrup
-8. C++ Complete reference, Herb Schildt
-9. C++ Coding Standard, Todd Hoff
-10. Unix in a Nutshell, Arnold Robbins, Daniel Gilly
+    1. Scripting + simple C
+    2. Abstract Data Type – Linked Lists (C)
+    3. OO basics
+    4. Inheritance
+    5. Generic programming
+    6. The C Programming Language, Brian W. Kernighan, Dennis M. Ritchie
+    7. The C++ Programming Language, Bjarne Stroustrup
+    8. C++ Complete reference, Herb Schildt
+    9. C++ Coding Standard, Todd Hoff
+    10. Unix in a Nutshell, Arnold Robbins, Daniel Gilly

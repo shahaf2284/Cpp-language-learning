@@ -1,7 +1,7 @@
 # Cpp-language-learning
 C++ learning
 
-_ Objectives:
+Objectives:
 
 * Acquire familiarity with C and C++ languages
 * Learn to work in Unix environment.
